@@ -1,4 +1,3 @@
-text
 # Task 1: LinkedIn Profile Scraper
 
 ## Setup
@@ -6,16 +5,12 @@ text
 1. Install dependencies:
 pip install -r requirements.txt
 
-text
-
 2. Download ChromeDriver or use webdriver-manager
 3. Update credentials in scraper.py (EMAIL and PASSWORD)
 
 ## Usage
 
 python scraper.py
-
-text
 
 ## Features
 - Automated login to LinkedIn
